@@ -1,8 +1,8 @@
 
-# **Simplifying Cross-Border Exports Between Carriers and Sellers**
+# **Optimizing International Export Processes for Carriers and Sellers**
 
 ### **Overview**
-The project is an AI-driven platform designed to streamline communication and processes for Indian SMBs engaged in cross-border exports. By leveraging advanced machine learning models, the platform simplifies damage detection, accelerates claim resolution, and provides actionable insights into logistics and customer feedback. LiDAR empowers sellers to optimize operations and reduce disputes, ensuring a seamless export experience.
+The project is an AI-driven platform designed to streamline communication and processes for Indian SMBs engaged in cross-border exports. By leveraging advanced machine learning models, the platform simplifies damage detection, accelerates claim resolution, and provides actionable insights into logistics and customer feedback. It empowers sellers to optimize operations and reduce disputes, ensuring a seamless export experience.
 
 ---
 
