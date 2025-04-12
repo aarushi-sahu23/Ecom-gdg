@@ -119,8 +119,3 @@ project/
 
 ---
 
-## **Contributors**
-- **Ritu Gupta**
-- **Dhananjay Aggarwal**
-- **Sripriya Agarwal**
-- **Aarushi Sahu**
